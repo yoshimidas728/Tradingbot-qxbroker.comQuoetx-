@@ -1,0 +1,1 @@
+{"account_type": "demo", "trading_type": "martingale", "bet_level": 1, "bet_amounts": [1], "financial_instruments": "currency", "market_type": "otc", "time_option": 100, "trade_time": 5, "minimum_return": 80, "trade_option": "random", "profit_target": 1, "loss_target": 1}
